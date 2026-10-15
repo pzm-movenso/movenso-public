@@ -1,8 +1,8 @@
 {
  "version": "0.9.0-rc.1",
- "commit": "9373813",
+ "commit": "1645b21",
  "versionSchema": 6,
  "versionMovpack": 5,
- "source": "source/movenso-source-9373813.tar.gz",
- "sourceSha256": "7c8caaa44165a5eb062164fd9cac347943091695fe8dde9604de7bc75acc99c1"
+ "source": "source/movenso-source-1645b21.tar.gz",
+ "sourceSha256": "0ac33627f2e67946a46e31a824014df6aa5fb5abc7ed26a0e362b8536f187ee6"
 }
